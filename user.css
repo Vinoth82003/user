@@ -229,7 +229,7 @@
 @media screen and (max-width:540px) {
     .card{
         flex-direction: column;
-        width: 280px;
+        width: 300px;
         height: 400px;
         top: -70px;
     }
@@ -246,6 +246,10 @@
         align-items: center;
         justify-content: center;
         border-radius: 4px;
+    }
+
+    .list{
+    padding: 10px;
     }
 
 }
